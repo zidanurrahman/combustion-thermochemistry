@@ -119,5 +119,5 @@ Output: full thermochemistry report in terminal + `combustion_analysis_results.p
 
 ---
 
-*Zid | Independent Chemical Engineering Study | 2025*
+*Zidanur Rahman | Independent Chemical Engineering Study | 2025*
 *Narayanganj, Bangladesh | Prepared as part of Romanian Government Scholarship application*
